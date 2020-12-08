@@ -1,4 +1,5 @@
 *  Arabic - [Zaher](https://github.com/zaher)
+*  Bahasa Indonesia - [irando.co.id](https://irando.co.id)
 *  Brazilian Portuguese - [rafaelff](https://fluxbb.org/forums/profile.php?id=63654)
 *  Catalan - [AlbertParera](https://fluxbb.org/forums/profile.php?id=58505)
 *  Czech - [FluxBB.cz](http://fluxbb.cz)
